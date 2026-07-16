@@ -1,6 +1,6 @@
 ## Introduction
 
-Hello, I am Sofy. I do some random projects from time to time, and I am sometimes all over the place since I try and do everything all at once. But I do aim to improve this habit and get my mind straight on one goal at a time.
+Hello, I am Noodle. I do some random projects from time to time, and I am sometimes all over the place since I try and do everything all at once. But I do aim to improve this habit and get my mind straight on one goal at a time.
 
 ---
 
@@ -20,7 +20,7 @@ Hello, I am Sofy. I do some random projects from time to time, and I am sometime
 ## Stats
 
 <p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=sofyisdumb&cc=000&tc=fff&ic=fff&bc=000">
+  <img src="https://github-stats-alpha.vercel.app/api?username=syntaxnoodle16&cc=000&tc=fff&ic=fff&bc=000">
 </p>
 
 ---
